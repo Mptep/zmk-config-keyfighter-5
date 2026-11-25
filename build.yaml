@@ -23,3 +23,7 @@ include:
     shield: keyfighter
   - board: nice_nano_v2
     shield: settings_reset
+  - board: nice_nano_v2
+    shield: keyfighter
+    snippet: zmk-usb-logging
+    artifact-name: keyfighter_usb_logging
